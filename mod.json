@@ -1,0 +1,25 @@
+{
+    "entry": "main.js",
+    "id": "wires-plus_community",
+    "version": "2.0.0",
+    "name": "Wires+ Community",
+    "author": "SkimnerPhi",
+    "description": "Even more components that didn't quite make the cut for Wires+",
+    "website": "https://skimnerphi.net/mods/wires-plus_community",
+    "settings": {},
+    "extra": {
+        "icon": "https://raw.githubusercontent.com/SkimnerPhi/shapez-mods/main/promo/wires-plus/icon.png",
+        "authors": [
+            {
+                "name": "SkimnerPhi",
+                "icon": "https://avatars.githubusercontent.com/u/69558934",
+                "website": "https://skimnerphi.net"
+            }
+        ],
+        "library": false,
+        "requires": {
+            "wires-plus": "^1.5.0"
+        },
+        "readme": "<p>An extension to Wires+ that adds a few more buildings that didn't <i>quite</i> fit with the main mod, but were requested by users.</p>"
+    }
+}

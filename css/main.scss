@@ -1,0 +1,12 @@
+$buildings: (
+  adjustableDelay,
+  adder-half,
+  transistor-parallel,
+  transistor-selector
+);
+
+@each $building in $buildings {
+    [data-icon="building_tutorials/#{$building}.png"] {
+        background-image: url("../building_tutorials/#{$building}.png") !important;
+    }
+}
